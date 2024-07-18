@@ -1,4 +1,5 @@
 # Neighbour-similarity-search
+## Project Idea
 This project aims to create a comparison of neighbors candidates based on their survey answers. 
 
 ## Project Structure
